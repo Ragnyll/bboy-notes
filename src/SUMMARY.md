@@ -11,3 +11,8 @@
 - [Move Ideas](./notes/ideas.md)
 - [Inspirations](./inspirations/summary.md)
     - [Show Me Stylez](./inspirations/show_me_stylez.md)
+- [Drills](./drills/summary.md)
+    - [Endurance](./drills/endurance_drills.md)
+    - [Packing Rounds](./drills/packing_rounds.md)
+    - [Memorization](./drills/memorization.md)
+    - [Freezes](./drills/freezes.md)
