@@ -4,7 +4,7 @@
 - [My Signature Moves](./signature_moves/summary.md)
     - [Signature Name](./signature_moves/move_name.md)
 - [My Battles](./battles/summary.md)
-    - [dateofbattle](./battles/20230221.md)
+    - [FinalHeatPreparty 2018](./battles/FinalHeatPreparty.md)
 - [My Footage Backlog](./footage/summary.md)
     - [20230318](./footage/20230318.md)
     - [20230312](./footage/20230312.md)
