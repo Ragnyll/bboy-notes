@@ -4,6 +4,8 @@
 - [My Signature Moves](./signature_moves/summary.md)
     - [Signature Name](./signature_moves/move_name.md)
 - [My Battles](./battles/summary.md)
+    - [Northwest Sweet 16 20230325](./battles/20230325.md)
+    - [STL 20230211](./battles/STL_20230211.md)
     - [FinalHeatPreparty 2018](./battles/FinalHeatPreparty.md)
 - [My Footage Backlog](./footage/summary.md)
     - [20230318](./footage/20230318.md)
