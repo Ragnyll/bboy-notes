@@ -15,6 +15,7 @@
     - [20230401](./footage/20230401.md)
     - [20230318](./footage/20230318.md)
     - [20230312](./footage/20230312.md)
+    - [20220815](./footage/20220815.md)
 - [Move Ideas](./notes/ideas.md)
 - [Inspirations](./inspirations/summary.md)
     - [Show Me Stylez](./inspirations/show_me_stylez.md)
