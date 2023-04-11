@@ -9,7 +9,6 @@
     - [STL 20230211](./battles/STL_20230211.md)
     - [FinalHeatPreparty 2018](./battles/FinalHeatPreparty.md)
     - [Who's Hungry Vol 2 20190420](./battles/20190420.md)
-    - [Who's Hungry Vol 1 20170425](./battles/20170425.md)
     - [WU Got Served](./battles/20141120.md)
     - [Show Me Stylez 6](./battles/20140514.md)
 - [My Footage Backlog](./footage/summary.md)
