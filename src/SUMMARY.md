@@ -20,7 +20,7 @@
     - [WU Got Served](./battles/20141120.md)
     - [Show Me Stylez 6](./battles/20140514.md)
 - [My Footage Backlog](./footage/summary.md)
-    - [20230808](./footage/20230805.md)
+    - [20230805](./footage/20230805.md)
     - [20230509](./footage/20230509.md)
     - [20230401](./footage/20230401.md)
     - [20230318](./footage/20230318.md)
