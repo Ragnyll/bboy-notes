@@ -1,9 +1,8 @@
 # Summary
 
 - [Summary](./description.md)
-- [My Signature Moves](./signature_moves/summary.md)
-    - [Signature Name](./signature_moves/move_name.md)
 - [My Battles](./battles/summary.md)
+    - [Northwest Sweet 16 qualifier 12/7](./battles/20231207)
     - [Headspin 10/14](./battles/20231014.md)
     - [Sunshine On The East Side](./battles/20230826.md)
     - [Breaks and Brews 2023](./battles/20230723.md)
@@ -42,3 +41,7 @@
     - [Packing Rounds](./drills/packing_rounds.md)
     - [Memorization](./drills/memorization.md)
     - [Freezes](./drills/freezes.md)
+- [2024 Planning](./planning/2024.md)
+    - [Workout](./planning/2024_workout.md)
+    - [Exercise List](./planning/exercise_list.md)
+    - [Session](./planning/2024_workout.md)
