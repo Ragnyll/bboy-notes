@@ -1,6 +1,7 @@
 # Summary
 
 - [Summary](./description.md)
+- [Move Library](./moves/index.md)
 - [My Battles](./battles/summary.md)
     - [Northwest Sweet 16 qualifier 12/7](./battles/20231207)
     - [Headspin 10/14](./battles/20231014.md)
