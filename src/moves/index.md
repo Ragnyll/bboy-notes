@@ -13,4 +13,26 @@
 - Normal Shuffles
 - Oh No Squat
 - Knee Lock Switch Thread Point
--
+- Backrock -> thread head grab -> boxturn -> switch air baby -> handstand
+- Monki Freeze Stack -> Box turn
+- JBI
+- Knee Slide Thread Lock
+- Xiaolin Thread Kick
+- Double Under Drop
+- Double Up 7 Step
+- Knee Break Drop
+- Thread Chair
+- Thread Hand Press
+- Shirt Thread Air Baby
+- Knee Break Thread Reset
+- Loop Leg Figure 4 Hop
+- Puzzles Figure 4 Drop
+- Spider Hop
+- Thread Back Walk Spin Drop
+- Tony Hawk Pro Skater
+- Crab Reach Thread Down
+- ATA drop
+- High Chair Thread Through
+- 1 hand Zulus
+- Zulu Handstand
+- Monki Loop Thread
