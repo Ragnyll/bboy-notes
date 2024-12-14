@@ -36,3 +36,14 @@
 - 1 hand Zulus
 - Zulu Handstand
 - Monki Loop Thread
+- Knee Thread Spin Get Down
+- 1 foot travel swivel through
+- Stutter CC
+- Cartwheel Swipe double dead leg
+- Foot Tap Pilot Drop
+- Fish out of water
+- Bruce Lee Reverse Sweep
+- Full Rotation BackRock
+- Jump Sweep Drop
+- Step Back over Reverse DeadLeg Head Close Thread
+- Underside Kickouts
