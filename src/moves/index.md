@@ -47,3 +47,22 @@
 - Jump Sweep Drop
 - Step Back over Reverse DeadLeg Head Close Thread
 - Underside Kickouts
+- Thread Air Chair
+- Sweep Drop Duck Under Kip Up Jump Back Elbow Freeze
+- Step under Butt to Pike Freeze
+- Hide the hand thread
+- Knee lock to munch mills
+- Body Roll Figure 4 Thread
+- Double Leg Grab BackRock -> Elbow Freeze
+- Knee Lock Backspin Head Freeze
+- Cross back fw
+- Double Leg Catch -> Windmill
+- Head Swipe -> Monki Handstand Level Change
+- Hop Over Switch Handstand
+- Spinning Deadlegs
+- 2 step crossover
+- 3 step crossover
+- double blender dead legs
+- Casper Rolling CC
+- Casper the friendly ninja
+- Knee Switch Drop High Figure 4
